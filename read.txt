@@ -1,4 +1,0 @@
-About
-I created a dynamic Recipe Blog website using Node.js and MongoDB . In this a user can also be able to submit a recipe and the recipe added by the user will be added to the website . All the data will be save to MongoDb cluster using AWS .
-
-https://bored-lime-sturgeon.cyclic.app/
